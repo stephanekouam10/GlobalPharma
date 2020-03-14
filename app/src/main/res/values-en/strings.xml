@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Global Pharma</string>
+    <string name="connexion">Sign in</string>
+    <string name="registration">Sign up</string>
+    <string name="name">Name</string>
+    <string name="name_or_email">Name or Email</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Password confirmation</string>
+    <string name="Home">Home</string>
+    <string name="Location">Localisation</string>
+    <string name="Pills">Take drug</string>
+    <string name="Message">Chat</string>
+    <string name="User">Profil</string>
+
+</resources>

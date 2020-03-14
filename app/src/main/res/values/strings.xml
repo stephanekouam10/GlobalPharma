@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GLOBAL PHARMA</string>
+    <string name="connexion">Connexion</string>
+    <string name="registration">Inscription</string>
+    <string name="name">Nom</string>
+    <string name="name_or_email">Nom ou adresse mail</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmation du mot de passe</string>
+    <string name="Home">Accueil</string>
+    <string name="Location">Location</string>
+    <string name="Pills">Prise de médicament</string>
+    <string name="Message">Message</string>
+    <string name="User">Profil</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="actu_sante">Actu santé du jour</string>
+
+</resources>
